@@ -1,0 +1,20 @@
+About This Application
+
+Application Name: Kwazam Chess
+
+Description:
+This application is a unique chess game, built using Java, that offers a user-friendly interface for players to fully immerse themselves in the strategic and captivating challenge of the game.
+
+Developed by:
+Ow Ka Sheng 1211108820
+Yoong Tzer Shih 1211108421
+Harold Goh 1211108866
+Lau Zi Herng 1211108444
+
+Contact:
+1211108820@student.mmu.edu.my
+1211108421@student.mmu.edu.my
+1211108866@student.mmu.edu.my
+1211108444@student.mmu.edu.my
+
+Thank you for playing Kwazam chess! 

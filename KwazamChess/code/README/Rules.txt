@@ -1,0 +1,27 @@
+The Ram Piece (Arrow Pentagon)
+
+--> The Ram can move forward one step at a time.
+--> When it reaches the end of the board, it turns around and starts heading back the other way.
+--> It cannot skip over other pieces.
+
+The Biz Piece (Vertical Division Sign)
+
+--> The Biz moves in a 3x2 L-shape in any orientation.
+--> It is the only piece capable of skipping over other pieces, allowing it to bypass obstacles in its path.
+
+The Tor Piece (Circle with T in Center)
+
+--> The Tor can move orthogonally (up, down, left, or right), any number of steps.
+--> It cannot skip over other pieces.
+--> After two turns (one blue move and one red move), the Tor transforms into the Xor piece.
+
+The Xor Piece (Circle with X in Center)
+
+--> The Xor moves diagonally (in any of the four diagonal directions), any number of steps.
+--> It cannot skip over other pieces.
+--> After two turns (one blue move and one red move), the Xor transforms into the Tor piece.
+
+The Sau Piece (Triangle with Circle in Center)
+
+--> The Sau can move only one step in any direction (horizontally, vertically, or diagonally).
+--> The game ends when the Sau is captured by the opposing side.
